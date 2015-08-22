@@ -1,7 +1,11 @@
-body {
-    background-color: floralwhite;
+html {
+    background: url(/image/5-120601095139.gif);
 }
 
-#myCarousel {
+body {
+    background: transparent;
+}
+
+#main-content {
     margin-top: 50px;
 }
